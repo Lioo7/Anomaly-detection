@@ -224,4 +224,7 @@ poetry.toml
 pyvenv.cfg
 pip-selfcheck.json
 
+# PDF task
+Task-1 Anomaly Detection.pdf
+
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,venv,jupyternotebooks
