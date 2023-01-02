@@ -24,7 +24,7 @@ Based on these evaluations, we find that our model performs well, with an accura
 <img src="https://i.ibb.co/hmyfTfG/Screen-Shot-2023-01-02-at-3-19-02.png" />
 
 ## Docker Application
-In addition to the model and analysis, we have also developed a Docker application with a user interface that allows users to input new incidents and get a prediction of whether or not they are anomalous. The application can be installed from our GitHub project, and the Jupyter notebook contains a link to the project.
+In addition to the model and analysis, we have also developed a Docker application with a user interface that allows users to input new incidents and get a prediction of whether or not they are anomalous. The application can be installed from our GitHub project.
 <img src="https://i.ibb.co/60pP4V0/Screen-Shot-2023-01-02-at-3-19-20.png" />
 
 ## Conclusion
