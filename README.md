@@ -1,4 +1,4 @@
-Network Attack Outlier/Anomaly Detection
+# Network Attack Outlier/Anomaly Detection
 In this project, we use the isolation forest model to detect anomalous network connections in a dataset of physical host network data. Our goal is to identify which hosts are likely to be outliers based on their connection characteristics.
 
 Data Exploration
