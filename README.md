@@ -1,8 +1,8 @@
 # Network Attack Outlier/Anomaly Detection
 
-[![Pandas](https://img.shields.io/badge/pandas-latest-green)](https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/pandas-latest-purple)](https://pandas.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-latest-green)](https://scikit-learn.org/stable/)
-[![Streamlit](https://img.shields.io/badge/streamlit-latest-blue)](https://www.streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/streamlit-latest-yellow)](https://www.streamlit.io/)
 [![Docker](https://img.shields.io/badge/docker-latest-blue)](https://www.docker.com/)
 
 In this project, we use the isolation forest model to detect anomalous network connections in a dataset of physical host network data. Our goal is to identify which hosts are likely to be outliers based on their connection characteristics.
